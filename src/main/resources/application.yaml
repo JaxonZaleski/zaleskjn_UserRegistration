@@ -1,0 +1,6 @@
+spring:
+    application:
+      name: user-registration
+email:
+    host: smtp.example.com
+    port: 587
